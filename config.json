@@ -81,7 +81,7 @@
       "coin": "monero",
       "url": "pool.hashvault.pro:80",
       "user": "insert_wallet_address",
-      "pass": "x",
+      "pass": null,
       "rig-id": null,
       "nicehash": false,
       "keepalive": true,
